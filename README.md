@@ -33,7 +33,11 @@ Find the type of clients accepting credit card offers
 Build a classification model able to predict if future customers are likely to accept a credit card offer based on their characteristics (to allow targetted customer offers)
 Offer recommendations to the bank based on findings, e.g. if it should focus more on a specific type of loyalty program or client type
 Provide ideas for further exploration & analysis, e.g. which credit card customer segment is the most profitable
-Data Science Process
+
+
+
+DATA SCIENCE PROCESS
+
 1. Initial Data Exploration (SQL)
 The initial data exploration process involved the creation of an SQL database, followed by some basic queries to better understand the dataset.
 
@@ -51,3 +55,8 @@ The models used were logistic regression and K-Nearest Neighbors (with multiple 
 The best model in terms of prediction accuracy across both accepted & rejected offers was logistic regression where the training set was oversampled using SMOTE - 69% for rejected offers and 67% for accepted offers.
 
 Next steps would involve choosing different models (e.g. random forest) or explore different feature selections to improve the prediction accuracy.
+
+
+
+
+
