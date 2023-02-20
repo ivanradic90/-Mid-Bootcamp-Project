@@ -1,5 +1,5 @@
 # -Mid-Bootcamp-Project
-Classification model (logistic regression &amp; KNN) to predict on acceptance of credit cards offers
+Classification model (logistic regression &amp; KNN) to predict if future customers are likely to accept or to reject offer.
 
 Ironhack - Mid-Bootcamp Project
 Business Background
